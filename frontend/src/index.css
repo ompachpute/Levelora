@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* App-wide base: dark RPG theme. */
+html {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
